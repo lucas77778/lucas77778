@@ -9,7 +9,7 @@ Projects I work on:
 <table><tbody><tr>
 <td align="middle" width="170px">
 
-<a href="https://github.com/arcboxlabs/arcbox"><img alt="ArcBox logo" src="https://arcbox.dev/favicon/apple-touch-icon.png" width="110"></a>
+<a href="https://github.com/arcboxlabs/arcbox"><img alt="ArcBox logo" src="https://avatars.githubusercontent.com/u/252897422?v=4" width="110"></a>
 
 </td>
 <td align="left" width="630px">
