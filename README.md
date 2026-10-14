@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-Software engineer with interests in AI agents, virtualization, and developer tools.
-
+Software engineer with interests in AI agents, virtualization, and developer tools. My current research focuses on macOS infrastructure.
 Projects I work on:
 
 <!-- --------------------->
