@@ -13,7 +13,7 @@ Projects I work on:
 </td>
 <td align="left" width="630px">
 
-### ArcBox <img align="right" src="https://img.shields.io/github/stars/arcboxlabs/arcbox?style=flat-square&color=gold">
+### ArcBox <img align="right" src="https://img.shields.io/github/stars/arcboxlabs/arcbox?style=flat-square&color=gold&v=2">
 
 Run AI agents on real, isolated machines — own kernel, filesystem, and network — with &lt;100ms boot. Local first, pure Rust.
 
